@@ -1,16 +1,8 @@
-[작성 중]
+## Hi there! 🙌
+I'm Hyunjun Park who is interested in backend developer.
 
-[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://velog.io/@merassom/)](https://velog.io/@merassom/)
-[![Naver Badge](http://img.shields.io/badge/-Naver%20blog-03C75A?style=flat-square&logo=naver&logoColor=white&link=https://blog.naver.com/tkdldjs35/)](https://blog.naver.com/tkdldjs35/)	
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/merassom/)](https://www.linkedin.com/in/merassom/)
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:phj0860@gmail.com)](mailto:phj0860@gmail.com)
+I worked as security software engineer.
 
-
-🙌Hi there!
-
-
-
-<br/>
 <br/>
 
 ### 🐱‍🐉 Skills
@@ -30,14 +22,22 @@
   
 
 <br/>
-  
 
+### 🖼 Experience 
 | 구분 | 직무 | 이름 |  기간
 | ---- | ---- | ---- | ----------- |
-|인턴  |  SQA |  넷맨 | 2020.03.20 ~ 2020.06.18 |
-|FT  |보안솔루션 개발 |  넷맨 | 2020.06.29 ~ 2021.05.14 |
+|Intern  |  SQA |  넷맨 | 2020.03.20 ~ 2020.06.18 |
+|Full-time  |보안솔루션 개발 |  넷맨 | 2020.06.29 ~ 2021.05.14 |
 
 
+<br/>
+<div align=center>
 
-	
+[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://velog.io/@merassom/)](https://velog.io/@merassom/)
+[![Naver Badge](http://img.shields.io/badge/-Naver%20blog-03C75A?style=flat-square&logo=naver&logoColor=white&link=https://blog.naver.com/tkdldjs35/)](https://blog.naver.com/tkdldjs35/)	
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/merassom/)](https://www.linkedin.com/in/merassom/)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:phj0860@gmail.com)](mailto:phj0860@gmail.com)
+
+</div>
+
   
