@@ -1,7 +1,7 @@
 ## Hi there! 🙌
-I'm Hyunjun Park who is interested in backend developer.
+I'm Hyunjun Park interested in backend developer.
 
-I worked as security software engineer.
+I have worked as security software engineer before.
 
 <br/>
 
