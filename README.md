@@ -1,7 +1,7 @@
 ## Hi there! 🙌
 I'm Hyunjun Park interested in backend developer.
 
-I have worked as security software engineer before.
+I have worked as security software engineer before. 🤣
 
 <br/>
 
