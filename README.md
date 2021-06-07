@@ -1,5 +1,5 @@
-## Hi there! 🙌
-I'm Hyunjun Park interested in backend developer.
+## Hi there! 🙌 
+I'm Hyunjun Park(Noah) interested in backend developer.
 
 I have worked as security software engineer before. 🤣
 
