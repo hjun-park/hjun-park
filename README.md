@@ -31,6 +31,13 @@ I have worked as security software engineer before. 🤣
 
 
 <br/>
+
+
+<div align=center>
+
+![Hyunjun's GitHub stats](https://github-readme-stats.vercel.app/api?username=hjun-park&show_icons=true&theme=buefy)<br>
+</div>
+
 <div align=center>
 
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://blossom6729.tistory.com/)](https://blossom6729.tistory.com/)
@@ -38,6 +45,5 @@ I have worked as security software engineer before. 🤣
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/merassom/)](https://www.linkedin.com/in/merassom/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:phj0860@gmail.com)](mailto:phj0860@gmail.com)
 
-</div>
 
   
