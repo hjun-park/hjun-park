@@ -35,7 +35,7 @@ I have worked as security software engineer before. 🤣
 
 <div align=center>
 
-![Hyunjun's GitHub stats](https://github-readme-stats.vercel.app/api?username=hjun-park&show_icons=true&theme=buefy)<br>
+<!-- ![Hyunjun's GitHub stats](https://github-readme-stats.vercel.app/api?username=hjun-park&show_icons=true&theme=buefy)<br> -->
 </div>
 
 <div align=center>
