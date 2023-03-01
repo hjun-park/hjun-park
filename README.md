@@ -26,9 +26,12 @@ I have worked as security software engineer before. 🤣
 ### 🖼 Experience 
 | 구분 | 직무 | 이름 |  기간 | 내용 |
 | ---- | ---- | ---- | ----------- | ----- |
-|Intern  |  SQA |  넷맨 | 2020.03.20 ~ 2020.06.18 | [Selenium 테스트 자동화 프로젝트] - 대외비 |
+|Full-time  |Java Backend |  .. | 2022.06.02 ~ 재직 중 | |
 |Full-time  |보안솔루션 |  넷맨 | 2020.06.29 ~ 2021.05.14 | [수습 평가 프로젝트 - 네트워크 보안 개발](https://github.com/hjun-park/Network-Project-Intern) |
-|Full-time  |Java Backend |  .. | 2020.06.02 ~ 재직 중 | |
+|Intern  |  SQA |  넷맨 | 2020.03.20 ~ 2020.06.18 | [Selenium 테스트 자동화 프로젝트] |
+
+
+
 
 
 <br/>
