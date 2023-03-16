@@ -1,7 +1,7 @@
 ## Hi there! 🙌 
 - 🌱 I'm Hyunjun Park(Nathan) interested in backend developer.
 - 💬 I have worked as security software engineer before. 🤣
-- 📑 Resume : <a href="https://merassom.notion.site/Nathan-48a5f3dc525c451d8d747743cdc4cd06"> <img src="https://img.shields.io/badge/CV-hyunjunPark-lightgrey?style=plastic-square&logo=notion&logoColor=white"/> </a>
+- 📑 Resume : <a href="https://merassom.notion.site/Nathan-48a5f3dc525c451d8d747743cdc4cd06" target="_blank"> <img src="https://img.shields.io/badge/CV-hyunjunPark-lightgrey?style=plastic-square&logo=notion&logoColor=white"/> </a>
 
 <!-- [![solved.ac-profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=phj0860)](https://solved.ac/phj0860)  -->
 
