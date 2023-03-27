@@ -37,6 +37,6 @@
 <br />
 
 ## Github Stats
-![hjun-park's GitHub stats](https://github-readme-stats.vercel.app/api?username=hjun-park&show_icons=true&theme=tokyonight)
+<!-- ![hjun-park's GitHub stats](https://github-readme-stats.vercel.app/api?username=hjun-park&show_icons=true&theme=tokyonight) -->
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hjun-park&layout=compact&hide=javascript,css,html)](https://github.com/anuraghazra/github-readme-stats) -->
 
